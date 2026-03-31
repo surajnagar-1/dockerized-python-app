@@ -18,22 +18,6 @@ This project demonstrates **multi-stage builds with Distroless images** and **Do
 
 ---
 
-## 📁 Project Structure
-
-.
-├── app.py
-├── Dockerfile
-├── Dockerfile.distroless
-├── docker-compose.yml
-├── requirements.txt
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-└── README.md
-
----
-
 ## ▶️ Run Locally
 
 pip install -r requirements.txt
