@@ -60,6 +60,7 @@ This project includes a Jenkins pipeline to automate the complete workflow:
 ## 🔗 API Endpoints
 
 /        → Home Page (UI)
+
 /health  → Health Check
 
 ---
@@ -67,6 +68,7 @@ This project includes a Jenkins pipeline to automate the complete workflow:
 ## ⚙️ Environment Variables
 
 PORT → Application port (default: 5000)
+
 ENV  → Environment mode
 
 ---
